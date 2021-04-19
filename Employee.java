@@ -1,14 +1,7 @@
 package com.horstmann.corejava;
 
-//the classes in this file are part of this package
-
 import java.time.*;
 
-// import statements come after the package statement
-
-/**
- * @author RF
- */
 public class Employee
 {
 	private String name;
